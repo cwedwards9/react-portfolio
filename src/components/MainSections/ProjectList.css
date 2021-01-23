@@ -1,0 +1,68 @@
+#portfolio {
+    padding-bottom: 1.5rem;
+}
+
+.card-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.card {
+    width: 45%;
+    margin: 2rem 1.25rem 3rem;
+    border-radius: 4px;
+    box-shadow: 0 19px 35px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 850px){
+    .card {
+        width: 75vw;
+    }
+}
+
+.card img {
+    border-bottom: 1px solid #ECECEC;
+}
+
+.card-body {
+    color: black;
+    background-color: white;
+}
+
+.card-text {
+    color: #2A2E35;
+}
+
+.app-link {
+    border: 1px solid #0cb4b4;
+    background-color: #0cb4b4;
+    color: #fff;
+    border-radius: 3px;
+    padding: 3px 7px;
+    margin-right: 5px !important;
+}
+.app-link:hover {
+    color: #fff;
+    opacity: 80%;
+    text-decoration: none;
+}
+
+.repo-link {
+    color: black;
+    border: 1px solid #ececec;
+    background-color: #ececec;
+    border-radius: 3px;
+    padding: 3px 5px;
+}
+.repo-link:hover {
+    color: black;
+    opacity: 90%;
+    text-decoration: none;
+}
+
+.fa-star {
+    color: #FCDC05;
+    margin: 0 5px;
+}

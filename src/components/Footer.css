@@ -1,0 +1,39 @@
+footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    background-color: #2A2E35;
+    color: #fff;
+}
+
+@media screen and (max-width: 650px) {
+    footer {
+        flex-direction: column;
+    }
+    footer div {
+        margin-bottom: 1rem;
+    }
+}
+
+footer p {
+    font-family: 'Lato', sans-serif;
+    margin-bottom: 0;
+}
+
+footer a i:hover {
+    opacity: 75%;
+}
+
+.fa-linkedin {
+    color: #0A66C2;
+}
+
+.fa-github-square {
+    color: #141414;
+}
+
+.fa-file-alt {
+    color: #E7E7E7;
+}

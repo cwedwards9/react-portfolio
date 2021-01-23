@@ -1,0 +1,53 @@
+nav {
+    background-color: none;
+    list-style: none;
+    position: absolute;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2.5rem 3rem;
+    animation: 1.5s fadein 1s forwards;
+    opacity: 0;
+    z-index: 1;
+}
+@keyframes fadein {
+    100% {
+        opacity: 1;
+    }
+}
+
+@media (max-width: 800px) {
+    nav {
+        flex-direction: column;
+    }
+
+    header h2 {
+        margin-bottom: 1rem;
+    }
+}
+
+nav li {
+    display: inline;
+    margin-right: 1rem;
+    padding-bottom: 5px;
+    border-bottom: 2px solid transparent;
+    font-family: "Quicksand", sans-serif;
+    transition: 0.2s all ease-in;
+}
+nav li:hover {
+    padding-bottom: 5px;
+    border-bottom: 2px solid #0cb4b4;
+}
+
+.brand-name li {
+    font-size: 1.5rem;
+}
+
+nav li a {
+    color: black;
+}
+nav li a:hover {
+    color: black;
+    text-decoration: none;
+}

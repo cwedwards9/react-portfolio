@@ -1,0 +1,15 @@
+#about {
+    padding-bottom: 75px;
+}
+
+.aboutPar {
+    font-size: 1.2rem;
+    font-family: "Quicksand", sans-serif;
+    margin-top: 1.25rem;
+    line-height: 2.25;
+}
+
+img.aboutPics {
+    width: 275px;
+    border-radius: 0.75rem;
+}
