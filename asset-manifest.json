@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.a4817d9c.chunk.css",
+    "main.css": "/static/css/main.135c0ffb.chunk.css",
     "main.js": "/static/js/main.21dfd8d3.chunk.js",
     "main.js.map": "/static/js/main.21dfd8d3.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.dc225a63.js",
@@ -10,7 +10,7 @@
     "static/js/3.051c38a5.chunk.js": "/static/js/3.051c38a5.chunk.js",
     "static/js/3.051c38a5.chunk.js.map": "/static/js/3.051c38a5.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.a4817d9c.chunk.css.map": "/static/css/main.a4817d9c.chunk.css.map",
+    "static/css/main.135c0ffb.chunk.css.map": "/static/css/main.135c0ffb.chunk.css.map",
     "static/js/2.02fcc2a3.chunk.js.LICENSE.txt": "/static/js/2.02fcc2a3.chunk.js.LICENSE.txt",
     "static/media/chase-w-edwards-resume.b416f5b3.pdf": "/static/media/chase-w-edwards-resume.b416f5b3.pdf",
     "static/media/college-grad.ad06984a.jpg": "/static/media/college-grad.ad06984a.jpg",
@@ -24,7 +24,7 @@
   "entrypoints": [
     "static/js/runtime-main.dc225a63.js",
     "static/js/2.02fcc2a3.chunk.js",
-    "static/css/main.a4817d9c.chunk.css",
+    "static/css/main.135c0ffb.chunk.css",
     "static/js/main.21dfd8d3.chunk.js"
   ]
 }
