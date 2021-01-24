@@ -2,7 +2,7 @@
 @media only screen and (max-height: 400px) and (orientation: landscape) { 
     nav {
         flex-direction: row;
-        padding: 2.5rem 075rem;
+        padding: 2.5rem 0.5rem;
     }
     nav li {
         margin-right: 0.75rem;
