@@ -150,7 +150,7 @@ form textarea {
 @media (max-width: 750px) {
     .contact-card {
         width: 80vw;
-        height: 950px;
+        height: 775px;
         flex-direction: column;
     }
     .contact-info {
