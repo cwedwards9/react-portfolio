@@ -22,6 +22,12 @@
     }
 }
 
+@media (max-width: 600px){
+    .card {
+        width: 90vw;
+    }
+}
+
 .card img {
     border-bottom: 1px solid #ECECEC;
 }
@@ -45,7 +51,6 @@
 }
 .app-link:hover {
     color: #fff;
-    opacity: 80%;
     text-decoration: none;
 }
 
@@ -58,11 +63,6 @@
 }
 .repo-link:hover {
     color: black;
-    opacity: 90%;
     text-decoration: none;
 }
 
-.fa-star {
-    color: #FCDC05;
-    margin: 0 5px;
-}
