@@ -2,7 +2,7 @@ import React, {Component} from "react";
 import Project from "./Project";
 import "./ProjectList.css";
 import smartMoneyImg from "../../assets/smart-money-img.PNG";
-import fitnessTracker from "../../assets/fitness-tracker-img.PNG";
+import bookSearch from "../../assets/book-search-img.PNG";
 import petItImg from "../../assets/petit-img.PNG";
 import employeedDirectoryImg from "../../assets/employee-directory-img.PNG";
 
@@ -29,12 +29,12 @@ class ProjectList extends Component {
             },
             {
                 id: 3,
-                image: fitnessTracker,
-                alt: "Two graphs, a line graph and a bar graph and two circle charts below measuring performance of workouts and exercises.",
-                name: "Fitness Tracker",
-                desc: "An app that allows a user to create and track workouts.",
-                appLink: "https://fitness-tracking-application.herokuapp.com/stats",
-                repoLink: "https://github.com/cwedwards9/fitness-tracker"
+                image: bookSearch,
+                alt: "A search bar with the word, 'Lord of the Flies' typed into it and a result for the book with a description and the book cover.",
+                name: "Book Search",
+                desc: "An app that allows a user to search for book titles, save them, and refer back to them later.",
+                appLink: "https://books-search-react-app.herokuapp.com/",
+                repoLink: "https://github.com/cwedwards9/book-app"
             },
             {
                 id: 4,
