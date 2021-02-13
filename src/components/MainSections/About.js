@@ -11,8 +11,8 @@ class About extends Component {
                     <div className="col-md-6 mb-3 d-flex flex-column justify-content-center">
                         <p className="aboutPar">I am a Full Stack Web Developer with a background in Information Systems and a dedication to
                         continuous learning. I am always finding creative and efficient ways to solve issues. I am known among 
-                        staff and peers as a hard worker with a strong attention to detail. I am currently studying Full Stack Web 
-                        Development at Case Western Reserve University. I am learning React in my free time.
+                        staff and peers as a hard worker with a strong attention to detail. I have recently graduated with a certificate in 
+                        Full Stack Web Development from Case Western Reserve University.
                         </p>
                     </div>
                     <div className="col-md-4 d-flex justify-content-center align-items-center">
@@ -26,9 +26,9 @@ class About extends Component {
                     </div>
                     <div className="col-md-6 d-flex flex-column justify-content-center order-1 order-md-2">
                         <p className="aboutPar">I graduated from The University of Akron in December of 2019 with a BBA in Information 
-                        Systems Management. This is where I was first exposed to programming as well as data structures. Although they
-                        were more introductory courses to help compliment my business and data analytics side, they opened my eyes to 
-                        the world of technology and from there my interest in software and web development grew.
+                        Systems Management. This is where I was first exposed to programming and data structures. Although that was not 
+                        the concentration for my undergraduate degree, it opened my eyes to the world of technology and from there my interest in software and 
+                        web development grew.
                         </p>
                     </div>
                 </div>
