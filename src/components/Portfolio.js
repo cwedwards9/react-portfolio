@@ -33,7 +33,7 @@ class Portfolio extends Component {
                             <div className="col-md-8 text-center">
                                 <h1 className="mb-4 sectionTitle">My Projects</h1>
                                 <p className="sectionDesc">This portfolio showcases the latest projects that I have completed. Click on a project's link to go to the 
-                                repository or to see the deployed version.
+                                repository or to see the deployed application. <strong>Apps make take a second to wake up.</strong>
                                 </p>
                                 <hr />
                             </div>
