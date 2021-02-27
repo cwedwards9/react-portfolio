@@ -22,10 +22,6 @@ footer p {
     margin-bottom: 0;
 }
 
-footer a i:hover {
-    opacity: 75%;
-}
-
 .fa-linkedin {
     color: #0A66C2;
 }
