@@ -7,9 +7,10 @@
     font-family: "Quicksand", sans-serif;
     margin-top: 1.25rem;
     line-height: 2.25;
+    text-align: center;
 }
 
 img.aboutPics {
     width: 275px;
-    border-radius: 0.75rem;
+    border-radius: 150px;
 }
