@@ -2,15 +2,43 @@
     padding-bottom: 75px;
 }
 
-.aboutPar {
-    font-size: 1.2rem;
-    font-family: "Quicksand", sans-serif;
-    margin-top: 1.25rem;
-    line-height: 2.25;
-    text-align: center;
+.aboutContent {
+    padding: 0 5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
-img.aboutPics {
-    width: 275px;
-    border-radius: 150px;
+.aboutDesc {
+    width: 65%;
+    margin-left: 2rem;
+}
+.aboutDesc p {
+    margin: 0;
+    font-size: 1.10rem;
+    font-family: "Quicksand", sans-serif;
+    line-height: 2;
+}
+
+.aboutPic {
+    width: 325px;
+    border-radius: 25px;
+}
+
+@media screen and (max-width: 950px) {
+    .aboutContent {
+        padding: 0 3rem;
+        flex-direction: column;
+        align-items: center;
+    }
+    .aboutDesc {
+        margin: 2rem;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    .aboutContent {
+        padding: 0 0.75rem;
+    }
 }

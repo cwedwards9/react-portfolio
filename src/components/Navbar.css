@@ -1,12 +1,11 @@
 nav {
-    background-color: none;
-    list-style: none;
     position: absolute;
     width: 100%;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 2.5rem 3rem;
+    font-family: "Quicksand", sans-serif;
+    padding: 2rem 3rem;
     animation: 1.5s fadein 1s forwards;
     opacity: 0;
     z-index: 1;
@@ -17,37 +16,42 @@ nav {
     }
 }
 
-@media (max-width: 800px) {
+@media screen and (max-width: 700px) {
     nav {
         flex-direction: column;
     }
+}
 
-    header h2 {
-        margin-bottom: 1rem;
-    }
+.brandName {
+    color: black;
+    padding-bottom: 5px;
+    border-bottom: 2px solid transparent;
+    transition: 0.2s all ease-in;
+    font-size: 1.5rem;
+}
+
+.nav-list {
+    margin-bottom: 0;
+    padding: 0;
 }
 
 nav li {
     display: inline;
-    margin-right: 1rem;
-    padding-bottom: 5px;
+}
+
+.nav-link {
+    display: inline;
+    color: black;
+    padding: 0 0 5px;
+    margin: 0 0.75rem;
     border-bottom: 2px solid transparent;
-    font-family: "Quicksand", sans-serif;
     transition: 0.2s all ease-in;
 }
-nav li:hover {
-    padding-bottom: 5px;
-    border-bottom: 2px solid #0cb4b4;
-}
-
-.brand-name li {
-    font-size: 1.5rem;
-}
-
-nav li a {
-    color: black;
-}
-nav li a:hover {
+.nav-link:hover,
+.brandName:hover {
     color: black;
     text-decoration: none;
+    padding-bottom: 5px;
+    border-bottom: 2px solid #0cb4b4;
+    cursor: pointer;
 }

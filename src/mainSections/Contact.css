@@ -150,12 +150,12 @@ form textarea {
 
 @media (max-width: 750px) {
     .contact-card {
-        width: 80vw;
+        width: 85vw;
         height: 775px;
         flex-direction: column;
     }
     .contact-info {
-        width: 80vw;
+        width: 85vw;
         left: 0px;
         border-radius: 0;
         text-align: center;
@@ -170,7 +170,7 @@ form textarea {
         visibility: visible;
     }
     form {
-        width: 80vw;
+        width: 85vw;
         left: 0px;
         border-radius: 0;
     }   

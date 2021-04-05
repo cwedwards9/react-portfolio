@@ -1,23 +1,18 @@
-import React, {Component} from "react";
+import React from "react";
+import { Link, animateScroll as scroll } from "react-scroll";
 import pdf from "../assets/chase-w-edwards-resume.pdf";
 import "./Navbar.css";
 
-class Navbar extends Component {
-    render() {
-        return (
-            <nav>
-                <div className="brand-name">
-                    <li><a href="#about">Chase Edwards</a></li>
-                </div>
-                <div className="nav-links">
-                    <li><a href="#portfolio">Portfolio</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                    <li><a href={pdf} target="_blank" rel="noreferrer">Resume</a></li>
-                </div>
-            </nav>
-        );
-    }
+export default function Navbar() {
+    return (
+        <nav>
+            <li><Link to="about" className="brandName"spy={true} smooth={true} duration={500}>Chase Edwards</Link></li>
+            <ul className="nav-list">
+                <li><Link to="tech" className="nav-link" spy={true} smooth={true} duration={500}>Tech</Link></li>
+                <li><Link to="projects" className="nav-link"spy={true} smooth={true} duration={500}>Projects</Link></li>
+                <li><Link to="contact" className="nav-link"spy={true} smooth={true} duration={500}>Contact</Link></li>
+                <li><a href={pdf} target="_blank" rel="noreferrer" className="nav-link">Resume</a></li>
+            </ul>
+        </nav>
+    );
 }
-
-
-export default Navbar;
