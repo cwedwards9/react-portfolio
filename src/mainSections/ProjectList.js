@@ -6,7 +6,7 @@ export default function ProjectList() {
     return (
         <div className="card-container">
             {projectData.map(project => (
-                <div className="card">
+                <div key={project.id} className="card">
                     <img src={project.image} className="card-img-top" alt={project.alt} />
                     <div className="card-body">
                         <h5 className="card-title">{project.name}</h5>
