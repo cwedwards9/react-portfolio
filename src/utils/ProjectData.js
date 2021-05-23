@@ -1,7 +1,7 @@
-import ModernLivingImg from "../assets/modern-living-img.PNG"
+import ModernLivingImg from "../assets/modern-living-img.PNG";
 import smartMoneyImg from "../assets/smart-money-img.PNG";
 import petItImg from "../assets/petit-img.PNG";
-import bookSearch from "../assets/book-search-img.PNG";
+import trelloClone from "../assets/trello-clone.png";
 
 
 export const projectData = [
@@ -25,20 +25,20 @@ export const projectData = [
     },
     {
         id: 3,
-        image: petItImg,
-        alt: "A post of a kitten resting in a persons arm.",
-        name: "PetIt - Social Media App",
-        desc: "A social media for users to post pictures of their pets. All pets welcome!",
-        appLink: "https://pet-it.herokuapp.com/",
-        repoLink: "https://github.com/cwedwards9/social-media-pet-app"
+        image: trelloClone,
+        alt: "A project board with columns/lists that contain cards or to-do items for the project.",
+        name: "Trellolo - Trello Clone",
+        desc: "A Trello clone, project management tool.",
+        appLink: "https://trellolo-trello-clone.herokuapp.com/",
+        repoLink: "https://github.com/cwedwards9/trello-clone"
     },
     {
         id: 4,
-        image: bookSearch,
-        alt: "A search bar with the word, 'Lord of the Flies' typed into it and a result for the book with a description and the book cover.",
-        name: "Book Search",
-        desc: "An app that allows a user to search for book titles, save them, and refer back to them later.",
-        appLink: "https://books-search-react-app.herokuapp.com/",
-        repoLink: "https://github.com/cwedwards9/book-app"
+        image: petItImg,
+        alt: "A post of a kitten resting in a persons arm.",
+        name: "PetIt - Social Media App",
+        desc: "A social media for users to post pictures of their pets.",
+        appLink: "https://pet-it.herokuapp.com/",
+        repoLink: "https://github.com/cwedwards9/social-media-pet-app"
     }
 ];
