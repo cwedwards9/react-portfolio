@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.b4b8c5c7.chunk.css",
-    "main.js": "/static/js/main.8b78ecb3.chunk.js",
-    "main.js.map": "/static/js/main.8b78ecb3.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.50e95878.js",
-    "runtime-main.js.map": "/static/js/runtime-main.50e95878.js.map",
+    "main.css": "/static/css/main.5ed32d31.chunk.css",
+    "main.js": "/static/js/main.e2655bf5.chunk.js",
+    "main.js.map": "/static/js/main.e2655bf5.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.26d2198d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.26d2198d.js.map",
     "static/js/2.5d9eca95.chunk.js": "/static/js/2.5d9eca95.chunk.js",
     "static/js/2.5d9eca95.chunk.js.map": "/static/js/2.5d9eca95.chunk.js.map",
-    "static/js/3.a502b45f.chunk.js": "/static/js/3.a502b45f.chunk.js",
-    "static/js/3.a502b45f.chunk.js.map": "/static/js/3.a502b45f.chunk.js.map",
+    "static/js/3.59edb4a1.chunk.js": "/static/js/3.59edb4a1.chunk.js",
+    "static/js/3.59edb4a1.chunk.js.map": "/static/js/3.59edb4a1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.b4b8c5c7.chunk.css.map": "/static/css/main.b4b8c5c7.chunk.css.map",
+    "static/css/main.5ed32d31.chunk.css.map": "/static/css/main.5ed32d31.chunk.css.map",
     "static/js/2.5d9eca95.chunk.js.LICENSE.txt": "/static/js/2.5d9eca95.chunk.js.LICENSE.txt",
-    "static/media/book-search-img.e008574c.PNG": "/static/media/book-search-img.e008574c.PNG",
     "static/media/chase-pic.91a17e9c.jpg": "/static/media/chase-pic.91a17e9c.jpg",
     "static/media/chase-w-edwards-resume.bbef87fc.pdf": "/static/media/chase-w-edwards-resume.bbef87fc.pdf",
     "static/media/Banner.css": "/static/media/main.1223bc96.jpg",
     "static/media/modern-living-img.0bdb921a.PNG": "/static/media/modern-living-img.0bdb921a.PNG",
     "static/media/petit-img.95c77b19.PNG": "/static/media/petit-img.95c77b19.PNG",
-    "static/media/smart-money-img.12e89791.PNG": "/static/media/smart-money-img.12e89791.PNG"
+    "static/media/smart-money-img.12e89791.PNG": "/static/media/smart-money-img.12e89791.PNG",
+    "static/media/trello-clone.92613882.png": "/static/media/trello-clone.92613882.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.50e95878.js",
+    "static/js/runtime-main.26d2198d.js",
     "static/js/2.5d9eca95.chunk.js",
-    "static/css/main.b4b8c5c7.chunk.css",
-    "static/js/main.8b78ecb3.chunk.js"
+    "static/css/main.5ed32d31.chunk.css",
+    "static/js/main.e2655bf5.chunk.js"
   ]
 }
