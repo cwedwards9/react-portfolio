@@ -24,6 +24,9 @@
     width: 50%;
     padding: 2rem;
 }
+.front-end-tech {
+    border-right: 1px solid lightgray;
+}
 
 .front-end-tech h2,
 .back-end-tech h2 {
@@ -38,7 +41,7 @@
 .front-end-tech h3,
 .back-end-tech h3 {
     font-size: 1.5rem;
-    margin: 2rem 0 0.5rem;
+    margin: 1rem 0 0.5rem;
 }
 
 .front-end-tech ul,
@@ -60,6 +63,7 @@
     }
     .front-end-tech {
         width: 100%;
+        border-right: none;
         border-bottom: 1px solid lightgray;
     }
     .back-end-tech {
