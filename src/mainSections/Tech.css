@@ -57,7 +57,7 @@
 }
 
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 900px) {
     .technologies {
         flex-direction: column;
     }
@@ -71,8 +71,12 @@
     }
 }
 
-@media screen and (max-width: 425px) {
+@media screen and (max-width: 500px) {
     .technologies {
         width: 90%;
+    }
+    .front-end-tech,
+    .back-end-tech {
+        padding: 1rem;
     }
 }
