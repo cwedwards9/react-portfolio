@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.565b9ebe.chunk.css",
-    "main.js": "/static/js/main.e2655bf5.chunk.js",
-    "main.js.map": "/static/js/main.e2655bf5.chunk.js.map",
+    "main.js": "/static/js/main.1e09b2fa.chunk.js",
+    "main.js.map": "/static/js/main.1e09b2fa.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.26d2198d.js",
     "runtime-main.js.map": "/static/js/runtime-main.26d2198d.js.map",
     "static/js/2.5d9eca95.chunk.js": "/static/js/2.5d9eca95.chunk.js",
@@ -12,8 +12,8 @@
     "index.html": "/index.html",
     "static/css/main.565b9ebe.chunk.css.map": "/static/css/main.565b9ebe.chunk.css.map",
     "static/js/2.5d9eca95.chunk.js.LICENSE.txt": "/static/js/2.5d9eca95.chunk.js.LICENSE.txt",
+    "static/media/chase-edwards-resume.7514cd00.pdf": "/static/media/chase-edwards-resume.7514cd00.pdf",
     "static/media/chase-pic.91a17e9c.jpg": "/static/media/chase-pic.91a17e9c.jpg",
-    "static/media/chase-w-edwards-resume.bbef87fc.pdf": "/static/media/chase-w-edwards-resume.bbef87fc.pdf",
     "static/media/Banner.css": "/static/media/main.1223bc96.jpg",
     "static/media/modern-living-img.0bdb921a.PNG": "/static/media/modern-living-img.0bdb921a.PNG",
     "static/media/petit-img.95c77b19.PNG": "/static/media/petit-img.95c77b19.PNG",
@@ -24,6 +24,6 @@
     "static/js/runtime-main.26d2198d.js",
     "static/js/2.5d9eca95.chunk.js",
     "static/css/main.565b9ebe.chunk.css",
-    "static/js/main.e2655bf5.chunk.js"
+    "static/js/main.1e09b2fa.chunk.js"
   ]
 }
