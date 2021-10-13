@@ -1,5 +1,5 @@
 import React from "react";
-import pdf from "../assets/chase-w-edwards-resume.pdf";
+import pdf from "../assets/chase-edwards-resume.pdf";
 import "./Banner.css";
 
 export default function Banner() {
