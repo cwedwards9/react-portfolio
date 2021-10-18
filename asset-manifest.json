@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.565b9ebe.chunk.css",
-    "main.js": "/static/js/main.1e09b2fa.chunk.js",
-    "main.js.map": "/static/js/main.1e09b2fa.chunk.js.map",
+    "main.css": "/static/css/main.746d285e.chunk.css",
+    "main.js": "/static/js/main.0f4c4b24.chunk.js",
+    "main.js.map": "/static/js/main.0f4c4b24.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.26d2198d.js",
     "runtime-main.js.map": "/static/js/runtime-main.26d2198d.js.map",
     "static/js/2.5d9eca95.chunk.js": "/static/js/2.5d9eca95.chunk.js",
@@ -10,11 +10,11 @@
     "static/js/3.59edb4a1.chunk.js": "/static/js/3.59edb4a1.chunk.js",
     "static/js/3.59edb4a1.chunk.js.map": "/static/js/3.59edb4a1.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.565b9ebe.chunk.css.map": "/static/css/main.565b9ebe.chunk.css.map",
+    "static/css/main.746d285e.chunk.css.map": "/static/css/main.746d285e.chunk.css.map",
     "static/js/2.5d9eca95.chunk.js.LICENSE.txt": "/static/js/2.5d9eca95.chunk.js.LICENSE.txt",
+    "static/media/Banner.css": "/static/media/banner-img.0303d0e2.jpg",
     "static/media/chase-edwards-resume.7514cd00.pdf": "/static/media/chase-edwards-resume.7514cd00.pdf",
     "static/media/chase-pic.91a17e9c.jpg": "/static/media/chase-pic.91a17e9c.jpg",
-    "static/media/Banner.css": "/static/media/main.1223bc96.jpg",
     "static/media/modern-living-img.0bdb921a.PNG": "/static/media/modern-living-img.0bdb921a.PNG",
     "static/media/petit-img.95c77b19.PNG": "/static/media/petit-img.95c77b19.PNG",
     "static/media/smart-money-img.12e89791.PNG": "/static/media/smart-money-img.12e89791.PNG",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.26d2198d.js",
     "static/js/2.5d9eca95.chunk.js",
-    "static/css/main.565b9ebe.chunk.css",
-    "static/js/main.1e09b2fa.chunk.js"
+    "static/css/main.746d285e.chunk.css",
+    "static/js/main.0f4c4b24.chunk.js"
   ]
 }
