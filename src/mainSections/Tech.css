@@ -33,6 +33,10 @@
     margin-bottom: 2rem;
 }
 
+.front-end-tech h2 {
+    cursor: pointer;
+}
+
 .front-end-tech p,
 .back-end-tech p{
     min-height: 75px;

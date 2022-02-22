@@ -6,7 +6,7 @@ import "./Navbar.css";
 export default function Navbar() {
     return (
         <nav>
-            <li><Link to="about" className="brandName"spy={true} smooth={true} duration={500}>Chase Edwards</Link></li>
+            <li><Link to="about" className="brandName" spy={true} smooth={true} duration={500}>Chase Edwards</Link></li>
             <ul className="nav-list">
                 <li><Link to="tech" className="nav-link" spy={true} smooth={true} duration={500}>Tech</Link></li>
                 <li><Link to="projects" className="nav-link"spy={true} smooth={true} duration={500}>Projects</Link></li>

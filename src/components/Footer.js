@@ -6,7 +6,7 @@ export default function Footer() {
     return (
         <footer>
             <div>
-                <p>&copy; 2021 Chase Edwards</p>
+                <p>&copy; 2022 Chase Edwards</p>
             </div>
             <div>
                 <p>Feel free to check out my other links...</p>

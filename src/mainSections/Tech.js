@@ -6,7 +6,7 @@ export default function Tech() {
       <div className="technologies">
         <section className="front-end-tech">
             <i className="fas fa-code tech-icon"></i>
-            <h2>Front-End Skills</h2>
+            <h2 title="More skills can be found in my resume">Front-End Skills</h2>
             <p>I value accessible sites for everyone, bringing an intuitive and clean design with thoughtful interactions.</p>
             <h3>Languages and Technologies:</h3>
             <ul>
@@ -14,8 +14,9 @@ export default function Tech() {
                 <li>SASS / SCSS</li>
                 <li>EJS / Handlebars</li>
                 <li>JavaScript / jQuery</li>
-                <li>Bootstrap</li>
+                <li>TypeScript</li>
                 <li>React</li>
+                <li>AngularJS &amp; Angular</li>
             </ul>
         </section>
 
@@ -27,11 +28,11 @@ export default function Tech() {
             <ul>
                 <li>Node.js</li>
                 <li>Express.js</li>
-                <li>SQL / MySQL</li>
+                <li>SQL</li>
+                <li>MySQL</li>
                 <li>Sequelize</li>
                 <li>MongoDB</li>
                 <li>Mongoose</li>
-                
             </ul>
         </section>
       </div>
