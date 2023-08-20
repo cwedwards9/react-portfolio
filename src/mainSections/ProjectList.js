@@ -11,7 +11,15 @@ export default function ProjectList() {
                     <div className="card-body">
                         <h5 className="card-title">{project.name}</h5>
                         <p className="card-text">{project.desc}</p>
-                        <a href={project.appLink} target="_blank" rel="noreferrer"className="app-link"><i className="fas fa-link"></i> App</a>
+                        <a 
+                            href={project.appLink} 
+                            target="_blank" 
+                            rel="noreferrer" 
+                            className={"app-link " + (project.id != 2 ? 'disabled-link' : "")}
+                        >
+                            <i className="fas fa-link"></i> 
+                            App
+                        </a>
                         <a href={project.repoLink} target="_blank" rel="noreferrer" className="repo-link"><i className="far fa-folder-open"></i> Repo</a>
                     </div>
                 </div>

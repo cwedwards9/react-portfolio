@@ -17,9 +17,9 @@ export const projectData = [
     {
         id: 2,
         image: wordleClone,
-        alt: "A clone of the popular web-based game, Wordle.",
+        alt: "A clone of the popular web-based word game, Wordle.",
         name: "Wordle Unlimited - Wordle Clone",
-        desc: "A clone of the game, Wordle with unlimited games per day.",
+        desc: "A clone of the web-based word game, Wordle, with unlimited games per day.",
         appLink: "https://cwedwards9.github.io/wordle-clone/",
         repoLink: "https://github.com/cwedwards9/wordle-clone"
     },

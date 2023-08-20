@@ -51,11 +51,20 @@
     color: #fff;
     border-radius: 3px;
     padding: 3px 7px;
-    margin-right: 5px !important;
+    margin-right: 5px;
+    
 }
 .app-link:hover {
     color: #fff;
     text-decoration: none;
+}
+.app-link.disabled-link {
+    pointer-events: none;
+    cursor: default;
+    background-color: #bdc3c7;
+    border-color: #bdc3c7;
+    color: rgba(255, 255, 255, 0.75);
+    opacity: 0.7;
 }
 
 .repo-link {
