@@ -11,8 +11,8 @@ export default function About() {
                 Information Systems when I was exposed to programming and database management. This was not the core concentration
                 of my major, but it opened my eyes to the world of technology. Since then, I have earned my degree as well as a
                 certificate in Full Stack Web Development from Case Western Reserve University. I have completed several individual 
-                and group projects along the way, interned as a Front End Web Developer, and now I am working as a Junior Front-End 
-                Developer and really loving the work.
+                and group projects along the way, interned as a Front-End Developer, and now I am working as a Front-End 
+                Developer and really loving the work!
                 </p>
             </div>
         </div>

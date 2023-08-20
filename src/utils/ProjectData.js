@@ -1,7 +1,7 @@
 import ModernLivingImg from "../assets/modern-living-img.PNG";
 import smartMoneyImg from "../assets/smart-money-img.PNG";
-import petItImg from "../assets/petit-img.PNG";
 import trelloClone from "../assets/trello-clone.png";
+import wordleClone from "../assets/wordle-clone.png";
 
 
 export const projectData = [
@@ -16,6 +16,15 @@ export const projectData = [
     },
     {
         id: 2,
+        image: wordleClone,
+        alt: "A clone of the popular web-based game, Wordle.",
+        name: "Wordle Unlimited - Wordle Clone",
+        desc: "A clone of the game, Wordle with unlimited games per day.",
+        appLink: "https://cwedwards9.github.io/wordle-clone/",
+        repoLink: "https://github.com/cwedwards9/wordle-clone"
+    },
+    {
+        id: 3,
         image: smartMoneyImg,
         alt: "A dashboard that shows the user's budget, a list of their inputted transactions, and a graph to represent their spending by category.",
         name: "Smart Money - Budget Tracker",
@@ -24,7 +33,7 @@ export const projectData = [
         repoLink: "https://github.com/cwedwards9/budget-tracker"
     },
     {
-        id: 3,
+        id: 4,
         image: trelloClone,
         alt: "A project board with columns/lists that contain cards or to-do items for the project.",
         name: "Trellolo - Trello Clone",
@@ -32,13 +41,4 @@ export const projectData = [
         appLink: "https://trellolo-trello-clone.herokuapp.com/",
         repoLink: "https://github.com/cwedwards9/trello-clone"
     },
-    {
-        id: 4,
-        image: petItImg,
-        alt: "A post of a kitten resting in a persons arm.",
-        name: "PetIt - Social Media App",
-        desc: "A social media for users to post pictures of their pets.",
-        appLink: "https://pet-it.herokuapp.com/",
-        repoLink: "https://github.com/cwedwards9/social-media-pet-app"
-    }
 ];

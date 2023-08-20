@@ -10,13 +10,13 @@ export default function Tech() {
             <p>I value accessible sites for everyone, bringing an intuitive and clean design with thoughtful interactions.</p>
             <h3>Languages and Technologies:</h3>
             <ul>
-                <li>HTML / CSS</li>
-                <li>SASS / SCSS</li>
+                <li>HTML</li>
+                <li>CSS / SASS</li>
                 <li>EJS / Handlebars</li>
-                <li>JavaScript / jQuery</li>
-                <li>TypeScript</li>
+                <li>JavaScript / TypeScript</li>
+                <li>jQuery</li>
                 <li>React</li>
-                <li>AngularJS &amp; Angular</li>
+                <li>AngularJS / Angular</li>
             </ul>
         </section>
 

@@ -3,10 +3,12 @@ import pdf from "../assets/chase-edwards-resume.pdf";
 import "./Footer.css";
 
 export default function Footer() {
+    const year = new Date().getFullYear();
+
     return (
         <footer>
             <div>
-                <p>&copy; 2022 Chase Edwards</p>
+                <p>&copy; { year } Chase Edwards</p>
             </div>
             <div>
                 <p>Feel free to check out my other links...</p>

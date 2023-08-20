@@ -91,7 +91,6 @@ form input, textarea {
     width: 100%;
     border-radius: 5px;
     border: 1px solid #ececec;
-    outline: none;
 }
 
 form textarea {
